@@ -1,0 +1,30 @@
+{
+    "0": [
+        {
+            "text": "in the heart of Old Delhi",
+            "probability": 0.9999274773688421,
+            "start_logit": 4.3880414962768555,
+            "end_logit": 5.7676167488098145
+        },
+        {
+            "text": "",
+            "probability": 7.252263115798663e-05,
+            "start_logit": 0.42255574464797974,
+            "end_logit": 0.20156313478946686
+        }
+    ],
+    "1": [
+        {
+            "text": "Bawana Road",
+            "probability": 0.9999984335275589,
+            "start_logit": 7.251665115356445,
+            "end_logit": 6.6791486740112305
+        },
+        {
+            "text": "",
+            "probability": 1.5664724409859014e-06,
+            "start_logit": 0.3918708264827728,
+            "end_logit": 0.17226020991802216
+        }
+    ]
+}
